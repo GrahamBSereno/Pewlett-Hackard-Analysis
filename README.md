@@ -7,7 +7,7 @@ To create the database, I began with an Entity Relationship Diagram (ERD) by fol
 
 ![alt text](https://github.com/GrahamBSereno/Pewlett-Hackard-Analysis/blob/main/EmployeeDB.png)
 
-##Results
+## Results
 - The main titles that Pewlett Hackard will have to complete contingency planning for are Senior Engineer (25,916 positions), Senior Staff (24,926 positions), and Engineer (9,285 positions). See below for the full retiring titles distribution:
 
 ![alt text](https://github.com/GrahamBSereno/Pewlett-Hackard-Analysis/blob/main/retiringtitles.png)
@@ -19,6 +19,6 @@ To create the database, I began with an Entity Relationship Diagram (ERD) by fol
 
 - There are not too many employees available for the Mentorship Program. I used the Count statement to reach a total of 1,549 employees. Pewlitt Hackard needs more employees to assist with training for contingency planning purposes.
 
-##Summary
+## Summary
 1. There are 72,359 positions that Pewlitt Hackard will need to account for as the retirement wave hits. 
 2. There are 1549 employees eligible for the Mentorship Program.
