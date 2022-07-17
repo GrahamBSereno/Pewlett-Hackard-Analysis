@@ -25,7 +25,7 @@ To create the database, I began with an Entity Relationship Diagram (ERD) by fol
 
 I also completed two additonal queires as part of this analysis.
 1. I used a count to get those employees that are eligible for the mentorship program. See below:
-![alt text](https://github.com/GrahamBSereno/Pewlett-Hackard-Analysis/blob/main/MentorshipEligibileCount.png)
+![alt text](https://github.com/GrahamBSereno/Pewlett-Hackard-Analysis/blob/main/MentorshipEligibleCount.png)
 
 2. I used a sum of salary to get Pewlitt Hackard's salary overhead cost. See below:
 ![alt text](https://github.com/GrahamBSereno/Pewlett-Hackard-Analysis/blob/main/TotalSalary.png)
