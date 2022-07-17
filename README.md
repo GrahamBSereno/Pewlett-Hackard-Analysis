@@ -22,3 +22,11 @@ To create the database, I began with an Entity Relationship Diagram (ERD) by fol
 ## Summary
 1. There are 72,359 positions that Pewlitt Hackard will need to account for as the retirement wave hits. 
 2. There are 1549 employees eligible for the Mentorship Program.
+
+I also completed two additonal queires as part of this analysis.
+1. I used a count to get those employees that are eligible for the mentorship program. See below:
+![alt text](https://github.com/GrahamBSereno/Pewlett-Hackard-Analysis/blob/main/MentorshipEligibileCount.png)
+
+2. I used a sum of salary to get Pewlitt Hackard's salary overhead cost. See below:
+![alt text](https://github.com/GrahamBSereno/Pewlett-Hackard-Analysis/blob/main/TotalSalary.png)
+
