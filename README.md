@@ -10,7 +10,7 @@ To create the database, I began with an Entity Relationship Diagram (ERD) by fol
 ##Results
 - The main titles that Pewlett Hackard will have to complete contingency planning for are Senior Engineer (25,916 positions), Senior Staff (24,926 positions), and Engineer (9,285 positions). See below for the full retiring titles distribution:
 
-! [alt text](https://github.com/GrahamBSereno/Pewlett-Hackard-Analysis/blob/main/retiringtitles.png)
+![alt text](https://github.com/GrahamBSereno/Pewlett-Hackard-Analysis/blob/main/MentorshipEligibility.png)
 
 - I noticed that there were some duplicate titles, so I used the 'Destinct On' statement to retreive the first occurence of the employee number for each set of rows. The above bullet also doesnt take into account those employees that have left the company, so I had to filter for employees with no end of employment date. 
 - I then wrote a querty to create a memtorship elegiblity to assist with the broader Mentorship Program. To do this, retrieve the employee information from my Employees table, retrieve the tenure information from the Department Employee table, and filter on employees with birthdays between 1/1/1965 and 12/1/1965. This is important as Pewlitt Hackard need senior employees to train. See SQL query below:
